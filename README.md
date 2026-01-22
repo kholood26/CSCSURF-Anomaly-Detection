@@ -11,3 +11,4 @@ framework for anomaly detection in healthcare IoT ecosystems.
 
 ## License
 MIT License
+https://doi.org/10.5281/zenodo.18335514
